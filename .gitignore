@@ -1,6 +1,7 @@
-/.project
-/.settings
-/.classpath
+.idea
+.project
+.settings
+.classpath
 target
-
+*.iml
 src/main/webapp/VAADIN
